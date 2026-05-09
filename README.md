@@ -19,6 +19,9 @@ This project focuses on analyzing kidney disease patient data using Exploratory 
 - AdaBoost
   
 
+## Confusion Matrix
+![CM](images/confusion_matrix.png)
+
 ## Model Performance
 - Decision Tree Accuracy: 94%
 - Random Forest Accuracy: 97%
