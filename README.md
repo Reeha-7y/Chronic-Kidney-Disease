@@ -18,8 +18,6 @@ This project focuses on analyzing kidney disease patient data using Exploratory 
 - Gradient Boosting
 - AdaBoost
   
-## Confusion Matrix
-![CM](images/confusion_matrix.png)
 
 ## Model Performance
 - Decision Tree Accuracy: 94%
