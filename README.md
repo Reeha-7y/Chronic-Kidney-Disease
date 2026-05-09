@@ -21,6 +21,9 @@ This project focuses on analyzing kidney disease patient data using Exploratory 
 
 ## Confusion Matrix
 ![RF](images/RandomForest.png)
+![DT](images/DecisionTree.png)
+![GB](images/GradientBoosting.png)
+![AB](images/AdaBoost.png)
 
 ## Model Performance
 - Decision Tree Accuracy: 94%
